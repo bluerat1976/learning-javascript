@@ -6,4 +6,5 @@ btn1.onclick = () => {
     let a = +inp1.value;
     alert(a);
     div.innerHTML = a;
+    console.log(typeof(a));
 }

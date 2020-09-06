@@ -1,0 +1,20 @@
+#btn {
+    margin-top: 50px;
+}
+
+#out {
+    display: inline-block;
+    margin-top: 20px;
+    height: 40px;
+    width: 30%;
+    border: 1px solid #696969;
+}
+
+#res {
+    display: block;
+    margin-top: 20px;
+    width: 40px;
+    height: 30px;
+    border: 1px solid #6d1010;
+    background: #cacaca;
+}
